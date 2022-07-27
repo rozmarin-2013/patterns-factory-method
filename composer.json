@@ -1,0 +1,23 @@
+{
+    "name": "mari/patterns",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Marina Nastenko",
+            "email": "rozmarin20132@gmail.com"
+        }
+    ],
+    "description": "Design Patterns",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "FactoryMethod\\": "src/FactoryMethod"
+        }
+    },
+    "config": {
+        "platform": {
+            "php": "8.1"
+        }
+    }
+}
