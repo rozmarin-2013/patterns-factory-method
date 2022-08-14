@@ -12,7 +12,8 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "FactoryMethod\\": "src/FactoryMethod"
+            "FactoryMethod\\": "src/FactoryMethod",
+            "AbstractFactory\\": "src/AbstractFactory"
         }
     },
     "config": {
